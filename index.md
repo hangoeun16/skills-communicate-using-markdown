@@ -9,3 +9,8 @@ a = ["a","b","c"]
 b = a
 print(a + b)
 ```
+
+###### things to eat
+- [ ] cheese pizza
+- [ ] chocolate
+- [ ] spicy noodle
