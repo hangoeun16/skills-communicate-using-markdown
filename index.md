@@ -3,3 +3,9 @@
 
 ![Image of cat wearing a dinosaur costume](https://octodex.github.com/images/dinotocat.png)
 
+
+```
+a = ["a","b","c"]
+b = a
+print(a + b)
+```
